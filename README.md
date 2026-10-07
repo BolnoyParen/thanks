@@ -106,4 +106,4 @@ KRUG_HTTPS=0 python3 app.py
 
 ## Автор
 
-**Requiem**: перехожу из строительства в IT, учусь Python и веб-разработке на реальных проектах.
+**BolnoyParen**
